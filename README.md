@@ -13,19 +13,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-## Software Languages
+### Software Languages
 <p align="left"> <a href="https://github.com/xberkay-o"><img src="https://go-skill-icons.vercel.app/api/icons?i=py,go,nodejs"></a></p>
 
-## Frameworks
+### Frameworks
 <p align="left"> <a href="https://github.com/xberkay-o"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,sqlite,discord,discordjs,bots,django,fastapi,pytorch,postgresql"> </a> </p>
 
-## Tools
+### Tools
 <p align="left"> <a href="https://github.com/xberkay-o"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,jupyter,postman,svg,json,windows,linux,wireshark"> </a> </p>
 
-## Contact Me
+### Contact Me
 <p align="left"> <a href="https://github.com/xberkay-o"><img src="https://go-skill-icons.vercel.app/api/icons?i=replit,github,proton,stackoverflow,youtube,discord,linkedin"> </a> </p>
-
-
 
 
 <h3 align="left">Support:</h3>
