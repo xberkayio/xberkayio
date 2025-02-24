@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **Python, Go, Nodejs, Ethical Hacking, WebApp, AI etc.**
-
 <h2 align="left">Languages and Tools:</h2>
 
 ### Software Languages
