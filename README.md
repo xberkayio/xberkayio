@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/xberkay-o"><img src="https://go-skill-icons.vercel.app/api/icons?i=py,go,nodejs"></a></p>
 
 ### Frameworks
-<p align="left"> <a href="https://github.com/xberkay-o"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,sqlite,discord,discordjs,bots,django,fastapi,pytorch,postgresql"> </a> </p>
+<p align="left"> <a href="https://github.com/xberkay-o"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,sqlite,discord,bots,django,fastapi,pytorch,postgresql"> </a> </p>
 
 ### Tools
 <p align="left"> <a href="https://github.com/xberkay-o"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,jupyter,postman,svg,json,windows,linux,wireshark"> </a> </p>
