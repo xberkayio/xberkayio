@@ -20,7 +20,7 @@
 <p align="left"> <a href="https://github.com/xberkay-o"><img src="https://go-skill-icons.vercel.app/api/icons?i=replit,github,proton,stackoverflow,youtube,discord,linkedin"> </a> </p>
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xberkay-o&layout=compact&theme=radical)](https://github.com/xberkay-o/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xberkay-o&layout=compact&theme=dark)](https://github.com/xberkay-o/github-readme-stats)
 
 ##
 <h3 align="left">Support:</h3>
