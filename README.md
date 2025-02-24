@@ -7,11 +7,7 @@
 
 - 💬 Ask me about **Python, Go, Nodejs, Ethical Hacking, WebApp, AI etc.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 ### Software Languages
 <p align="left"> <a href="https://github.com/xberkay-o"><img src="https://go-skill-icons.vercel.app/api/icons?i=py,go,nodejs"></a></p>
