@@ -20,5 +20,8 @@
 <p align="left"> <a href="https://github.com/xberkay-o"><img src="https://go-skill-icons.vercel.app/api/icons?i=replit,github,proton,stackoverflow,youtube,discord,linkedin"> </a> </p>
 
 ##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xberkay-o&layout=compact&theme=radical)](https://github.com/xberkay-o/github-readme-stats)
+
+##
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xberkay_o"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xberkay_o" /></a></p><br><br>
