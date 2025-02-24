@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://github.com/xberkay-o"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,py,go,html,css,nodejs,postman,svg,github,stackoverflow,mongodb,mysql,sqlite,sqlalchemy,discord,telegram,bots,windows,linux,django,pytorch,postgresql,wireshark,"> </a> </p>
 
 ## Software Languages
-<p align="left"> <a href="https://github.com/xberkay-o"><img src="https://skillicons.dev/icons?i=py,go,html,css,nodejs"></a></p>
+<p align="left"> <a href="https://github.com/xberkay-o"><img src="https://skillicons.dev/icons?i=py,go,nodejs,html,css"></a></p>
 ## Frameworks
 <p align="left"> <a href="https://github.com/xberkay-o"><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,sqlalchemy,discord,telegram,bots,django,pytorch,postgresql"> </a> </p>
 ## Tools
