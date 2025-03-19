@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xberkay-o&label=Profile%20views&color=0e75b6&style=flat" alt="xberkayio" /> </p>
 
 
-- ### 🌱 I’m currently learning **AI**
+- ### 🌱 I’m currently working **on it**
 
 <h2 align="left">Languages and Tools:</h2>
 
