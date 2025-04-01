@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">Yes. This profile is the story of a profile that turned from black hat to white hat.</h3>
+<h3 align="center">Yes. This profile is the profile of someone who is interested in artificial intelligence and cybersecurity.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xberkay-o&label=Profile%20views&color=0e75b6&style=flat" alt="xberkayio" /> </p>
 
 
