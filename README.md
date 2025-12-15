@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xberkay-o&label=Profile%20views&color=0e75b6&style=flat" alt="xberkayio" /> </p>
 
 
-- <p align="left"> ### 🌱 I’m currently working **on it** <a href="https://github.com/xberkayio"><img src="https://go-skill-icons.vercel.app/api/icons?i=unity"> </a> </p>
+- ### 🌱 I’m currently working **on it** <p align="left"> <a href="https://github.com/xberkayio"><img src="https://go-skill-icons.vercel.app/api/icons?i=unity"> </a> </p>
 
 <h2 align="left">Languages and Tools:</h2>
 
